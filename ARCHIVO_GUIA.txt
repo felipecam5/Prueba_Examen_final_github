@@ -1,8 +1,5 @@
 Mi nombre es Felipe Camacho Hurtado y tengo 24 años.
 
-<<<<<<< HEAD
 Mi nombre es Maria Paula Rodriguez y tengo 23 años.
 Mi nombre es Sebastian Prieto y tengo 22 años.
-=======
 Mi nombre es Carlos Valbuena y tengo 30 años.
->>>>>>> charles
