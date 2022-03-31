@@ -6,5 +6,9 @@ Mi nombre es Carlos Valbuena y tengo 30 años.
 
 A charles le gusta el futbol.
 
+<<<<<<< HEAD
 Cada vez que llueve el pasto se moja.
 ESTO ES UN EXPERIMENTO
+=======
+Cada vez que llueve el pasto se moja.
+>>>>>>> 251e8d1 (prueba)
